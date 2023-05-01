@@ -59,15 +59,15 @@ body::-webkit-scrollbar{
 
   .b1 {
     height: 1000px;
-    background-image: url(/bg/1.png),url(/bg/1.png);
+    background-image: url(web1/nigga/bg/1.png),url(web1/nigga/bg/1.png);
     overflow: -moz-hidden-scrollable;
   }
   .b2 {
-    background-image: url(/bg/5.jpg/) , url(/bg/5.jpg/);
+    background-image: url(web1/nigga/bg/5.jpg/) , url(web1/nigga/bg/5.jpg/);
     overflow:-moz-hidden-scrollable;
   }
   .b3 {
-    background-image: url(/bg/3.png);
+    background-image: url(web1/nigga/bg/3.png);
     overflow: -moz-hidden-scrollable;
   }
   
